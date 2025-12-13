@@ -1,0 +1,24 @@
+# OS junk
+.DS_Store
+._*
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Model weights
+*.pth
+*.pt
+
+# Images & outputs
+*.jpeg
+*.jpg
+*.png
+*.bmp
+
+# Documents
+*.pptx
